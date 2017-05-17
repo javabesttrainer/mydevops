@@ -1,0 +1,7 @@
+settings   :
+      serverUrl       : "https://devops1.atlassian.net/rest"
+      username        : "javabesttrainer@gmail.com"
+      password        : "phani@123"
+      projectKey      : "FIR"
+      proxyHost       : "orrproxy.mphasis.com"
+      proxyPort       : "8080"

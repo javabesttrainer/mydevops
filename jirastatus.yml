@@ -1,0 +1,4 @@
+status:
+    inProgress: [In Progress,active]
+    completed:  [Done,Completed,closed]
+    future: [To Do,future]
